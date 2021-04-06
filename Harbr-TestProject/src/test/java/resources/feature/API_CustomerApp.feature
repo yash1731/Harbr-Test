@@ -1,3 +1,4 @@
+@all
 @api
 Feature:  Customer app through api
   As an admin

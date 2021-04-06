@@ -1,3 +1,4 @@
+@all
 @front
 Feature:  Customer app
   As an admin

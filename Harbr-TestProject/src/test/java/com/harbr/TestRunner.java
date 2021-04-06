@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
         ,features = {"src/test/java/resources/feature"}
         ,snippets = SnippetType.CAMELCASE
         ,glue = {"com.harbr.hooks","com.harbr.steps"}
-        ,tags = {"@api"}
+        ,tags = {"@all"}
 
 )
 public class TestRunner {
